@@ -1,1 +1,1 @@
-# PremierLeagueRankingApproximation
+# Algeo-PremierLeague
